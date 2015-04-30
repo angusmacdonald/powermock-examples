@@ -1,4 +1,4 @@
-package nyc.angus.powermock.example;
+package nyc.angus.powermock.systemclass;
 
 import java.net.NetworkInterface;
 import java.net.SocketException;

@@ -1,4 +1,4 @@
-package nyc.angus.powermock.example;
+package nyc.angus.powermock.systemclass;
 
 import static org.junit.Assert.assertTrue;
 import static org.mockito.Mockito.when;
