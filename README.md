@@ -1,2 +1,2 @@
-# powermock-examples
-Examples of PowerMock edge cases.
+# Powermock Examples
+Examples of some PowerMock edge cases.
